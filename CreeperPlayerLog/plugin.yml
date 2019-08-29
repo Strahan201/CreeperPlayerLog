@@ -1,0 +1,8 @@
+name: CreeperPlayerLog
+author: Strahan
+main: com.sylvcraft.CreeperPlayerLog
+version: 1.0
+description: Log who is near a creeper when it explodes
+commands:
+  cpl:
+    description: Plugin command
